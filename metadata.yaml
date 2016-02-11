@@ -1,0 +1,41 @@
+_repo: Monsieur-Bergeret-in-Paris_49414
+contributor:
+  creator:
+    editors:
+    - agent_name: May, J. Lewis (James Lewis)
+      alias: May, James Lewis
+      birthdate: 1873
+      gutenberg_agent_id: '31313'
+      url: http://www.gutenberg.org/2009/agents/31313
+    - agent_name: Miall, Bernard
+      alias: Miall, A. Bernard
+      birthdate: 1876
+      gutenberg_agent_id: '1214'
+      url: http://www.gutenberg.org/2009/agents/1214
+  translator:
+    agent_name: Drillien, B.
+    gutenberg_agent_id: '45147'
+    url: http://www.gutenberg.org/2009/agents/45147
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2015-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Monsieur Bergeret in Paris
+url: http://www.gutenberg.org/ebooks/49414
