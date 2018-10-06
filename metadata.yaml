@@ -43,5 +43,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Monsieur Bergeret in Paris
 url: http://www.gutenberg.org/ebooks/49414
